@@ -20,10 +20,10 @@
 		"aiBuildingCostModifier": 0.9,
 		"aiWonderCostModifier": 1,
 		"aiBuildingMaintenanceModifier": 0.5,
-		"aiUnitMaintenanceModifier": 0.2,
-		"aiUnitSupplyModifier": 0.2,
+		"aiUnitMaintenanceModifier": 0.3,
+		"aiUnitSupplyModifier": 0.3,
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 0.55,
+		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
