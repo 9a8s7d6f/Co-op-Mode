@@ -1,6 +1,7 @@
 {
     "name": "Global Uniques",
     "uniques": [
-        "[-30]% Production when constructing [Civilian] units [in all cities] <for [AI player] Civilizations> <on [Decadeity] difficulty or higher>",
+        "[-50]% Production when constructing [Civilian] units [in all cities] <for [AI player] Civilizations> <on [Decadeity] difficulty or higher>",
+        "[-30]% Production when constructing [Settler] units [in all cities] <for [AI player] Civilizations> <on [Decadeity] difficulty or higher>",
     ],
 }
